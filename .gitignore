@@ -1,1 +1,6 @@
 /target
+/.idea/.gitignore
+/Cargo.lock
+/.idea/ferris-lang.iml
+/.idea/modules.xml
+/.idea/vcs.xml

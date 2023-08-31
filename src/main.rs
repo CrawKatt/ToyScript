@@ -1,7 +1,10 @@
 extern crate core;
 
 mod scanner;
+mod expr;
+
 use crate::scanner::*;
+use crate::expr::*;
 
 use std::env;
 use std::fs;
